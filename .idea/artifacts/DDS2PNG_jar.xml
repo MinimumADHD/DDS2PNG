@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DDS2PNG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DDS2PNG_jar</output-path>
+    <root id="archive" name="DDS2PNG.jar">
+      <element id="module-output" name="DDS2PNG" />
+    </root>
+  </artifact>
+</component>
